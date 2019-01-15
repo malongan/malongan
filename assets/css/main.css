@@ -116,6 +116,7 @@ input, select, textarea {
 	-webkit-transition: none !important;
 	-ms-transition: none !important;
 	transition: none !important;
+	margin-bottom: 2px;
 		}
 
 /* Typography */
