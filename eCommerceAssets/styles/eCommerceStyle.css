@@ -211,7 +211,7 @@ footer .footerlinks {
 }
 
 /* Media query for tablets */
-@media screen and (max-width : 842px ){
+@media screen and (max-width : 956px ){
 /* search field in sidebar */
 #content .sidebar #search {
 	display: none;
@@ -339,7 +339,7 @@ footer .footerlinks p {
 }
 
 /*media query for small screen devices */
-@media screen and (max-width:480px) {
+@media screen and (max-width : 726px ){
 /*Container for links in header */
 #mainWrapper header #headerLinks {
 	width: 100%;
