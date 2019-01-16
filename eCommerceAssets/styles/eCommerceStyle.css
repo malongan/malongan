@@ -182,6 +182,7 @@ footer div a {
 /* Product's images in catalog */
 .productInfo div img {
 	width: 100%;
+	border-radius: 16px;
 }
 /*Links in sidebar */
 .sidebar #menubar .menu ul li a {
