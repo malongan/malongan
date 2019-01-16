@@ -345,7 +345,7 @@ footer .footerlinks p {
 	/* Whole page content */
 #mainWrapper {
 	width: 90%;
-	padding-left: 10%;
+	padding-left: 5%;
 }
 #mainWrapper header #headerLinks {
 	width: 100%;
@@ -382,7 +382,7 @@ header #headerLinks a {
 }
 #mainWrapper #content .mainContent {
 	overflow: hidden;
-	width: 90%;
+	width: 100%;
 	margin-top: 40px;
 }
 /* Each product in catalog view */
