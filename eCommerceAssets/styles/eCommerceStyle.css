@@ -28,12 +28,12 @@ header {
 	text-align: right;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: rgba(255,255,255,1.00);
+	background-color: rgba(103,103,103,1.00);
 }
 /* Links in header */
 #headerLinks a {
 	text-decoration: none;
-	color: rgba(146,146,146,1.00);
+	color: rgba(214,214,214,1.00);
 	padding-left: 66px;
 	font-size: 14px;
 }
@@ -189,7 +189,7 @@ footer div a {
 	text-decoration: none;
 }
 .sidebar #menubar .menu ul li a:hover {
-	color: rgba(107,97,97,1.00);
+	color: rgba(71,180,146,1.00);
 	text-decoration: none;
 }
 /* Menu headings in sidebar */
