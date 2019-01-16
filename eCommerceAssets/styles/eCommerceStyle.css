@@ -393,16 +393,19 @@ header #headerLinks a {
 	padding-left: 3%;
 	padding-right: 3%;
 	position: relative;
+	height: 170px;
 }
 /* Prices of products in catalog view */
 .productRow .productInfo .price {
 	font-size: 16px;
 	width: 100%;
+	height: 26px;
 }
 /* Content holders in catalog view */
 .productRow .productInfo .productContent {
 	width: 100%;
 	font-size: 10px;
+	height: 24px;
 }
 #mainWrapper footer div {
 	width: 100%;
