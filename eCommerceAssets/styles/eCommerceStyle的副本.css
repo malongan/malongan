@@ -112,18 +112,17 @@ header {
 /* Each product Information in the catalog */
 .mainContent .productRow .productInfo {
 	float: left;
-	padding-left: 3%;
-	padding-right: 3%;
-	width: 10%;
+	padding-left: 5%;
+	padding-right: 5%;
+	width: 22%;
 }
 /* Prices of a products in catalog */
 .productRow .productInfo .price {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(59,59,59,1.00);
-	font-size: 16px;
+	font-size: 22px;
 	position: relative;
 	top: -20px;
-	margin-top: 25px;
 }
 /* Content holder for products in catalog*/
 .productRow .productInfo .productContent {
@@ -133,7 +132,7 @@ header {
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
-	color: rgba(119,119,119,1.00);
+	color: rgba(146,146,146,1.00);
 	white-space: pre-wrap;
 }
 /* Buy button for products in catalog */
@@ -212,7 +211,7 @@ footer .footerlinks {
 }
 
 /* Media query for tablets */
-@media screen and (max-width : 700px ){
+@media screen and (max-width : 956px ){
 /* search field in sidebar */
 #content .sidebar #search {
 	display: none;
@@ -285,11 +284,11 @@ footer .footerlinks {
 }
 /* Prices of products in catalog view */
 .productRow .productInfo .price {
-	font-size: 16px;
+	font-size: 19px;
 }
 /* Content holders in catalog view */
 .productRow .productInfo .productContent {
-	font-size: 14px;
+	font-size: 16px;
 }
 /* Buy buttons in catalog view */
 .productRow .productInfo .buyButton {
@@ -340,7 +339,7 @@ footer .footerlinks p {
 }
 
 /*media query for small screen devices */
-@media screen and (max-width : 480px ){
+@media screen and (max-width : 726px ){
 /*Container for links in header */
 #mainWrapper header #headerLinks {
 	width: 100%;
@@ -377,10 +376,10 @@ header #headerLinks a {
 }
 /* Each product in catalog view */
 .mainContent .productRow .productInfo {
-	width: 26%;
+	width: 100%;
 	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
 	position: relative;
 	left: -2%;
 }
