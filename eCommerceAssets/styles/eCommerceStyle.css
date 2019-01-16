@@ -183,7 +183,7 @@ footer div a {
 /* Product's images in catalog */
 .productInfo div img {
 	width: 100%;
-	border-radius: 16px;
+	border-radius: 8px;
 }
 /*Links in sidebar */
 .sidebar #menubar .menu ul li a {
@@ -212,7 +212,7 @@ footer .footerlinks {
 }
 
 /* Media query for tablets */
-@media screen and (max-width : 700px ){
+@media screen and (max-width : 700px ) {
 /* search field in sidebar */
 #content .sidebar #search {
 	display: none;
@@ -340,8 +340,13 @@ footer .footerlinks p {
 }
 
 /*media query for small screen devices */
-@media screen and (max-width : 480px ){
+@media screen and (max-width : 480px ) {
 /*Container for links in header */
+	/* Whole page content */
+#mainWrapper {
+	width: 90%;
+	padding-left: 10%;
+}
 #mainWrapper header #headerLinks {
 	width: 100%;
 	text-align: center;
@@ -375,14 +380,26 @@ header #headerLinks a {
 	width: 100%;
 	display: block;
 }
+#mainWrapper #content .mainContent {
+	overflow: hidden;
+	width: 90%;
+	margin-top: 40px;
+}
 /* Each product in catalog view */
 .mainContent .productRow .productInfo {
-	width: 22%;
+	width: 24%;
 	display: block;
 	padding-left: 2%;
 	padding-right: 2%;
 	position: relative;
-	float: left;
+}
+/* Prices of products in catalog view */
+.productRow .productInfo .price {
+	font-size: 14px;
+}
+/* Content holders in catalog view */
+.productRow .productInfo .productContent {
+	font-size: 12px;
 }
 #mainWrapper footer div {
 	width: 100%;
@@ -409,5 +426,5 @@ header #headerLinks a {
 }
 }
 
-@media (max-width: 1680px){
+@media (max-width: 1680px) {
 }
