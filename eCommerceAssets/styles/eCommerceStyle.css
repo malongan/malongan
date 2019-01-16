@@ -377,12 +377,12 @@ header #headerLinks a {
 }
 /* Each product in catalog view */
 .mainContent .productRow .productInfo {
-	width: 26%;
+	width: 22%;
 	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 2%;
+	padding-right: 2%;
 	position: relative;
-	left: -2%;
+	float: left;
 }
 #mainWrapper footer div {
 	width: 100%;
