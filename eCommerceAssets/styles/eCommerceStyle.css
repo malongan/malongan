@@ -384,22 +384,25 @@ header #headerLinks a {
 	overflow: hidden;
 	width: 100%;
 	margin-top: 40px;
+	float: left;
 }
 /* Each product in catalog view */
 .mainContent .productRow .productInfo {
 	width: 24%;
 	display: block;
-	padding-left: 2%;
-	padding-right: 2%;
+	padding-left: 3%;
+	padding-right: 3%;
 	position: relative;
 }
 /* Prices of products in catalog view */
 .productRow .productInfo .price {
-	font-size: 14px;
+	font-size: 16px;
+	width: 100%;
 }
 /* Content holders in catalog view */
 .productRow .productInfo .productContent {
-	font-size: 12px;
+	width: 100%;
+	font-size: 10px;
 }
 #mainWrapper footer div {
 	width: 100%;
