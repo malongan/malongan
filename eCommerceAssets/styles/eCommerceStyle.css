@@ -50,6 +50,7 @@ header {
     background-image: url(../images/pic04.jpg);
     background-repeat: no-repeat;
     background-size: 100% auto;
+    background-position: 0% 100%;
 }
 /* Main content of the site */
 #content {
