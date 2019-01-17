@@ -32,20 +32,22 @@ header {
 }
 /* Links in header */
 #headerLinks a {
-	text-decoration: none;
-	color: rgba(214,214,214,1.00);
-	padding-left: 66px;
-	font-size: 14px;
+    text-decoration: none;
+    color: rgba(214,214,214,1.00);
+    padding-left: 20px;
+    font-size: 14px;
+    padding-right: 20px;
 }
 /* Offer text banner*/
 #offer {
-	font-family: 'Montserrat', sans-serif;
-	clear: both;
-	background-color: rgba(246,246,246,1.00);
-	color: rgba(146,146,146,1.00);
-	padding-left: 115px;
-	padding-top: 57px;
-	padding-bottom: 57px;
+    font-family: 'Montserrat', sans-serif;
+    clear: both;
+    background-color: rgba(246,246,246,1.00);
+    color: rgba(146,146,146,1.00);
+    padding-left: 115px;
+    padding-top: 57px;
+    padding-bottom: 57px;
+    background-image: url(../images/pic03.jpg);
 }
 /* Main content of the site */
 #content {
@@ -93,8 +95,8 @@ header {
 }
 /* Whole page content */
 #mainWrapper {
-	width: 80%;
-	padding-left: 10%;
+    width: 80%;
+    padding-left: 10%;
 }
 /*menu elements */
 .menu ul li {
