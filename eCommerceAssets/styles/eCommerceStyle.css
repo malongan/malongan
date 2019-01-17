@@ -13,22 +13,22 @@ header {
 }
 /* Logo placeholder*/
 #logo {
-	float: left;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	width: 139px;
-	text-align: center;
-	color: rgba(131,131,131,1.00);
-	background-color: rgba(61,61,61,1.00);
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 139px;
+    text-align: center;
+    color: rgba(131,131,131,1.00);
+    background-color: rgba(42,42,42,1.00);
 }
 /* div for Links in header */
 #headerLinks {
-	float: left;
-	width: calc( 100% - 139px );
-	text-align: right;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	background-color: rgba(103,103,103,1.00);
+    float: left;
+    width: calc( 100% - 139px );
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(49,49,49,1.00);
 }
 /* Links in header */
 #headerLinks a {
@@ -43,11 +43,13 @@ header {
     font-family: 'Montserrat', sans-serif;
     clear: both;
     background-color: rgba(246,246,246,1.00);
-    color: rgba(146,146,146,1.00);
+    color: rgba(255,255,255,1.00);
     padding-left: 115px;
     padding-top: 57px;
     padding-bottom: 57px;
-    background-image: url(../images/pic03.jpg);
+    background-image: url(../images/pic04.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 /* Main content of the site */
 #content {
@@ -362,10 +364,10 @@ footer .footerlinks p {
 	padding-left: 5%;
 }
 #mainWrapper header #headerLinks {
-	width: 100%;
-	text-align: center;
-	background-color: rgba(190,190,190,1.00);
-	padding-bottom: 21px;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(42,42,42,1.00);
+    padding-bottom: 21px;
 }
 /* Logo placeholder*/
 #mainWrapper header #logo {
@@ -380,8 +382,9 @@ header #headerLinks a {
 }
 /*Offer - Text Banner */
 #mainWrapper #offer {
-	padding-left: 0px;
-	text-align: center;
+    padding-left: 0px;
+    text-align: center;
+    background-color: #2A2A2A;
 }
 /* Menubar in sidebar */
 #content .sidebar #menubar {
