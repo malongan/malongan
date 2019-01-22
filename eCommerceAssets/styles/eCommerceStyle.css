@@ -120,8 +120,8 @@ header {
     text-align: left;
     font-weight: normal;
     margin-left: 3%;
-    border-bottom: 2px solid #E0E0E0;
-    margin-bottom: 10px;
+    border-bottom: 1px solid #E0E0E0;
+    margin-bottom: 20px;
     padding-bottom: 10px;
 }
 /* Each product Information in the catalog */
