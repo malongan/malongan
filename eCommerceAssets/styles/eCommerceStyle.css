@@ -115,11 +115,14 @@ header {
 	color: rgba(146,146,146,1.00);
 }
 #content .mainContent .productRow .biao {
-	overflow: auto;
-	color: rgba(50,50,50,1.00);
-	text-align: left;
-	font-weight: normal;
-	margin-left: 3%;
+    overflow: auto;
+    color: rgba(50,50,50,1.00);
+    text-align: left;
+    font-weight: normal;
+    margin-left: 3%;
+    border-bottom: 2px solid #E0E0E0;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 /* Each product Information in the catalog */
 .mainContent .productRow .productInfo {
