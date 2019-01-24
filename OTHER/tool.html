@@ -12,20 +12,20 @@
 
 <body>
 <div id="mainWrapper">
-  <header> 
+  <header>
     <!-- This is the header content. It contains Logo and links -->
-    <div id="logo"> <!-- <img src="logoImage.png" alt="sample logo"> --> 
-      <!-- Company Logo text --> 
+    <div id="logo"> <!-- <img src="logoImage.png" alt="sample logo"> -->
+      <!-- Company Logo text -->
       LOGO </div>
     <div id="headerLinks"><a href="#" title="Login/Register">2019</a><a href="#" title="Cart">未于末</a></div>
   </header>
-  <section id="offer"> 
+  <section id="offer">
     <!-- The offer section displays a banner text for promotions -->
     <h2>便捷工具</h2>
     <p>设计相关工具集合</p>
   </section>
   <div id="content">
-    <section class="sidebar"> 
+    <section class="sidebar">
       <!-- This adds a sidebar with 1 searchbox,2 menusets, each with 4 links -->
      <!-- <input type="text"  id="search" value="search">-->
       <div id="menubar">
@@ -35,7 +35,7 @@
           <ul>
             <!-- List of links under menuset 1 -->
             <li><a href="../index.html" title="Link">灵感</a></li>
-            <li><a href="#" title="Link">工具</a></li>            
+            <li><a href="#" title="Link">工具</a></li>
             <li><a href="#" title="Link">软件</a></li>
             <li class="notimp"><!-- notimp class is applied to remove this link from the tablet and phone views --><a href="#"  title="Link">其它</a></li>
           </ul>
@@ -55,12 +55,15 @@
       </div>
     </section>
     <section class="mainContent">
+			<div class="productRow">
+        <p class="biao">推荐工具</p>
+      </div>
       <div class="productRow"><!-- Each product row contains info of 3 elements -->
         <article class="productInfo"><!-- Each individual product description -->
           <div><a href="https://draw.io" target="_blank"><img alt="sample" src="../eCommerceAssets/images/icon/draw.png"></a></div>
           <p class="price">draw</p>
           <p class="productContent">线框图绘制</p>
-          
+
         </article>
         <article class="productInfo"><!-- Each individual product description -->
           <div><a href="https://tinypng.com/" target="_blank"><img alt="sample" src="../eCommerceAssets/images/icon/tinypng.jpg"></a></div>
@@ -88,18 +91,23 @@
           <p class="productContent">Content holder</p>
 </article>
       </div>
-      <div class="productRow"> 
+			<div class="productRow">
+        <p class="biao">交互设计</p>
+      </div>
+      <div class="productRow">
         <!-- Each product row contains info of 3 elements -->
-        <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="../eCommerceAssets/images/200x200.png"></div>
-          <p class="price">$50</p>
-          <p class="productContent">Content holder</p>
-</article>
-        <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="../eCommerceAssets/images/200x200.png"></div>
-          <p class="price">$50</p>
-          <p class="productContent">Content holder</p>
-</article>
+				<article class="productInfo"><!-- Each individual product description -->
+          <div><a href="https://draw.io" target="_blank"><img alt="sample" src="../eCommerceAssets/images/icon/draw.png"></a></div>
+          <p class="price">draw</p>
+          <p class="productContent">线框图绘制</p>
+
+        </article>
+				<article class="productInfo"><!-- Each individual product description -->
+          <div><a href="https://draw.io" target="_blank"><img alt="sample" src="../eCommerceAssets/images/icon/draw.png"></a></div>
+          <p class="price">draw</p>
+          <p class="productContent">线框图绘制</p>
+
+        </article>
         <article class="productInfo"><!-- Each individual product description -->
           <div><img alt="sample" src="../eCommerceAssets/images/200x200.png"></div>
           <p class="price">$50</p>
@@ -121,12 +129,16 @@
           <p class="productContent">Content holder</p>
 </article>
       </div>
+			<div class="productRow">
+        <p class="biao">店铺装修</p>
+      </div>
       <div class="productRow">
-        <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="../eCommerceAssets/images/200x200.png"></div>
-          <p class="price">$50</p>
-          <p class="productContent">Content holder</p>
-</article>
+				<article class="productInfo"><!-- Each individual product description -->
+          <div><a href="https://dianshang.gaoding.com/tools" target="_blank"><img alt="sample" src="../eCommerceAssets/images/icon/draw.png"></a></div>
+          <p class="price">搞定装修</p>
+          <p class="productContent">店铺装修代码</p>
+
+        </article>
         <article class="productInfo"><!-- Each individual product description -->
           <div><img alt="sample" src="../eCommerceAssets/images/200x200.png"></div>
           <p class="price">$50</p>
@@ -155,7 +167,7 @@
       </div>
     </section>
   </div>
-  <footer> 
+  <footer>
     <!-- This is the footer with default 3 divs -->
     <div>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius sem neque. Integer ornare.</p>
