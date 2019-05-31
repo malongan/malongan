@@ -25,7 +25,8 @@
                 计资源</a></li>
             <li><a href="#Free%20Gallery"><i class="iconfont icon-shequ"></i>免费图
                 库</a></li>
-            <li><a href="#bbs"><i class="iconfont icon-shequ"></i>开发 社区</a></li>
+            <li><a href="#bbs"><i class="iconfont icon-shequ"></i>开发
+                社区</a></li>
             <li><a href="#sill"><i class="iconfont icon-blogger"></i>技术博客</a></li>
             <li><a href="#docs"><i class="iconfont icon-wendangdocument78"></i>开
                 发文档</a></li>
@@ -450,12 +451,6 @@
                   <div class="logo"><img src="img/draw.jpg" alt="Vue.js"> draw</div>
                   <div class="desc">专业的开源图表设计</div>
                 </div>
-              </a> <a target="_blank" href="http://bluegriffon.org">
-                <div class="item">
-                  <div class="logo"><img src="img/bluegriffon.png" alt="Vue.js">
-                    bluegriffon</div>
-                  <div class="desc">开源的可视化网页编辑软件，基本功能免费</div>
-                </div>
               </a> </div>
           </div>
           <!-- 实用工具 -->
@@ -648,6 +643,7 @@
         $('#fixedBar').click(function() {
             $('html,body').animate({scrollTop:'0px'},800);
         })
-        </script> </div>
+        </script>
+    </div>
   </body>
 </html>
