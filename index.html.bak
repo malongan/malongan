@@ -197,31 +197,51 @@
                 </div>
               </a> <a target="_blank" href="https://unsplash.com/">
                 <div class="item">
+<<<<<<< HEAD
                   <div class="logo"><img src="img/unsplash.png" alt="Unsplash">
+=======
+                  <div class="logo"><img src="img/gold-favicon.png" alt="Unsplash">
+>>>>>>> parent of 90b557b... a
                     Unsplash</div>
                   <div class="desc">以风景为主，壁纸，滤镜感比较强</div>
                 </div>
               </a> <a target="_blank" href="https://pixabay.com/">
                 <div class="item">
+<<<<<<< HEAD
                   <div class="logo"><img src="img/pixabay.jpg" alt="pixabay">
+=======
+                  <div class="logo"><img src="img/github.ico" alt="github">
+>>>>>>> parent of 90b557b... a
                     Pixabay</div>
                   <div class="desc">全球最大的免费图片网站</div>
                 </div>
               </a> <a target="_blank" href="https://www.pexels.com/">
                 <div class="item">
+<<<<<<< HEAD
                   <div class="logo"><img src="img/pexels.jpg" alt="pexels">
+=======
+                  <div class="logo"><img src="img/stackoverflow.ico" alt="stackoverflow">
+>>>>>>> parent of 90b557b... a
                     Pexels</div>
                   <div class="desc">精美的图片，有「一周精选」</div>
                 </div>
               </a> <a target="_blank" href="https://visualhunt.com/">
                 <div class="item">
+<<<<<<< HEAD
                   <div class="logo"><img src="img/visualhunt.jpg" alt="visualhunt">
+=======
+                  <div class="logo"><img src="img/segmentfault.ico" alt="visualhunt">
+>>>>>>> parent of 90b557b... a
                     visualhunt</div>
                   <div class="desc">数量超级多的无版权图片网站，可以根据颜色进行搜索</div>
                 </div>
               </a> <a target="_blank" href="https://fancycrave.com/">
                 <div class="item">
+<<<<<<< HEAD
                   <div class="logo"><img src="img/fancycrave.jpg" alt="FancyCrave">
+=======
+                  <div class="logo"><img src="img/zhihu.ico" alt="FancyCrave">
+>>>>>>> parent of 90b557b... a
                     FancyCrave</div>
                   <div class="desc">每天两张手工筛选精品照片，每张都在诉说一个故事</div>
                 </div>
@@ -454,11 +474,14 @@
                 <div class="item">
                   <div class="no-logo">疯狂美工助手</div>
                 </div>
+<<<<<<< HEAD
               <a target="_blank" href="https://tinypng.com/">
                 <div class="item">
                   <div class="no-logo">tinypng图片压缩</div>
                 </div>
               </a>
+=======
+>>>>>>> parent of 90b557b... a
               </a> </div>
           </div>
           <!-- 学无止境 -->
