@@ -199,7 +199,11 @@
                 <div class="item">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                   <div class="logo"><img src="img/unsplash.png" alt="Unsplash">
+=======
+                  <div class="logo"><img src="img/gold-favicon.png" alt="Unsplash">
+>>>>>>> parent of 90b557b... a
 =======
                   <div class="logo"><img src="img/gold-favicon.png" alt="Unsplash">
 >>>>>>> parent of 90b557b... a
@@ -213,7 +217,11 @@
                 <div class="item">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                   <div class="logo"><img src="img/pixabay.jpg" alt="pixabay">
+=======
+                  <div class="logo"><img src="img/github.ico" alt="github">
+>>>>>>> parent of 90b557b... a
 =======
                   <div class="logo"><img src="img/github.ico" alt="github">
 >>>>>>> parent of 90b557b... a
@@ -227,7 +235,11 @@
                 <div class="item">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                   <div class="logo"><img src="img/pexels.jpg" alt="pexels">
+=======
+                  <div class="logo"><img src="img/stackoverflow.ico" alt="stackoverflow">
+>>>>>>> parent of 90b557b... a
 =======
                   <div class="logo"><img src="img/stackoverflow.ico" alt="stackoverflow">
 >>>>>>> parent of 90b557b... a
@@ -241,7 +253,11 @@
                 <div class="item">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                   <div class="logo"><img src="img/visualhunt.jpg" alt="visualhunt">
+=======
+                  <div class="logo"><img src="img/segmentfault.ico" alt="visualhunt">
+>>>>>>> parent of 90b557b... a
 =======
                   <div class="logo"><img src="img/segmentfault.ico" alt="visualhunt">
 >>>>>>> parent of 90b557b... a
@@ -255,7 +271,11 @@
                 <div class="item">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                   <div class="logo"><img src="img/fancycrave.jpg" alt="FancyCrave">
+=======
+                  <div class="logo"><img src="img/zhihu.ico" alt="FancyCrave">
+>>>>>>> parent of 90b557b... a
 =======
                   <div class="logo"><img src="img/zhihu.ico" alt="FancyCrave">
 >>>>>>> parent of 90b557b... a
@@ -496,11 +516,14 @@
                 </div>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
               <a target="_blank" href="https://tinypng.com/">
                 <div class="item">
                   <div class="no-logo">tinypng图片压缩</div>
                 </div>
               </a>
+=======
+>>>>>>> parent of 90b557b... a
 =======
 >>>>>>> parent of 90b557b... a
 =======
